@@ -1,0 +1,3 @@
+[submodule "project_a"]
+	path = project_a
+	url = https://github.com/aps4398/project_a.git
